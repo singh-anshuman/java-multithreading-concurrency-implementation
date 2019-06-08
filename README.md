@@ -9,6 +9,7 @@ Implementation of various Java multithreading and concurrency libraries mentione
 - Reenterant Locks and Conditions
 - CopyOnWrite Collections (No locking)
 - Concurrent Collections
+- Cyclic Barrier
 - Executor Services and Thread Pools
 - Callables and Futures
 - User Defined Custom Executor Services
@@ -16,4 +17,4 @@ Implementation of various Java multithreading and concurrency libraries mentione
 - Fork Join Pool : Recursive Task
 - Fork Join Pool : Recusive Action
 - Parallel Streams
-- Custom Resucers in Parallel Streams
+- Custom Reducers in Parallel Streams
